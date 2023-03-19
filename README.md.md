@@ -1,1 +1,0 @@
-Desafio de projeto onde e criada uma tabela com os álbuns e musicas do iron maiden no AWS usando Dynamodb
